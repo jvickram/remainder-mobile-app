@@ -1,4 +1,4 @@
-package com.reminderapp
+package com.vistarak.reminderapp
 
 import android.app.Application
 import com.facebook.react.PackageList

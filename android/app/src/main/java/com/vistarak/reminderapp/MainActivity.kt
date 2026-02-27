@@ -1,4 +1,4 @@
-package com.reminderapp
+package com.vistarak.reminderapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
